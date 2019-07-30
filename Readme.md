@@ -1,6 +1,6 @@
 # How to filter ASPxGridView bound to SqlDataSource via external combobox in ASPxRoundPanel
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2041)**
+**[[Run Online]](https://codecentral.devexpress.com/e2041/)**
 <!-- run online end -->
 
 
